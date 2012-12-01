@@ -1,0 +1,9 @@
+[user]
+	name = Liang Guo
+	email = liang.guo@server.fake
+[credential]
+	helper = osxkeychain
+[core]
+	excludesfile = ~/.gitignore
+[color]
+	ui = true
