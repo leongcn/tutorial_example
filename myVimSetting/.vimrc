@@ -1,6 +1,7 @@
 source /usr/share/vim/vim73/vimrc_example.vim
 set shiftwidth=4
 set tabstop=4
+set softtabstop=4
 set expandtab
 
 set number
